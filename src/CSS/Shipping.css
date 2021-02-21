@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
+
+.centerLogo {
+  white-space: unset;
+  display: block;
+  text-align: center;
+  width: 51%;
+  justify-self: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10vh;
+  font-family: "Sriracha", cursive;
+}
