@@ -1,7 +1,7 @@
 # Getting Started with Trucky React front end
 
 
-###first run the following command to build and run this project
+#### first run the following command to build and run this project
 ```
   npm install
 ```
